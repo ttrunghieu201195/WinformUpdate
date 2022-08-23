@@ -25,9 +25,11 @@
     <MapFileExtensions>true</MapFileExtensions>
     <InstallUrl>https://raw.githubusercontent.com/ttrunghieu201195/WinformUpdate/main/published/</InstallUrl>
     <UpdateUrl>https://raw.githubusercontent.com/ttrunghieu201195/WinformUpdate/main/published/</UpdateUrl>
+    <ProductName>Check Auto update</ProductName>
+    <PublisherName>VNPT Bạc Liêu</PublisherName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationRevision>2</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
