@@ -1,0 +1,14 @@
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\bin\Debug\CheckUpdate.exe.config
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\bin\Debug\CheckUpdate.exe.manifest
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\bin\Debug\CheckUpdate.application
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\bin\Debug\CheckUpdate.exe
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\bin\Debug\CheckUpdate.pdb
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.csprojAssemblyReference.cache
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.Form1.resources
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.Properties.Resources.resources
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.csproj.GenerateResource.cache
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.csproj.CoreCompileInputs.cache
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.exe.manifest
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.application
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.exe
+E:\99_Projects\WinformUpdate\CheckUpdate\CheckUpdate\obj\Debug\CheckUpdate.pdb
