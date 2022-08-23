@@ -38,7 +38,7 @@ namespace CheckUpdate
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 0;
-            this.textBox1.Text = "2.0.0";
+            this.textBox1.Text = "2.2.1";
             // 
             // Form1
             // 
